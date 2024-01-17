@@ -1,1 +1,1 @@
-console.log("HELLO WORLD!")
+console.log("HELLO WORLD! I'ts wednesday today.")
